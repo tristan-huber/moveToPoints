@@ -2,7 +2,7 @@
 
 # moveToPoints
 
-![](/project.svg)
+![](/project.png)
 
 ## Inputs
 
