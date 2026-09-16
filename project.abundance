@@ -26,7 +26,7 @@
   "allAtoms": [
     {
       "atomType": "Output",
-      "x": 0.98,
+      "x": 1,
       "y": 0.5,
       "uniqueID": "id-142",
       "ioValues": [
@@ -38,8 +38,8 @@
     },
     {
       "atomType": "Code",
-      "x": 0.44140625,
-      "y": 0.6228571428571429,
+      "x": 0.4,
+      "y": 0.6,
       "uniqueID": "id-144",
       "ioValues": [
         {
@@ -65,35 +65,39 @@
     },
     {
       "atomType": "Input",
-      "x": 0.0231,
-      "y": 0.14,
+      "x": 0,
+      "y": 0.2,
       "uniqueID": "id-157",
       "name": "shapeToMove",
-      "type": "geometry"
+      "type": "geometry",
+      "options": []
     },
     {
       "atomType": "Input",
-      "x": 0.0231,
-      "y": 0.22400000000000003,
+      "x": 0,
+      "y": 0.2,
       "uniqueID": "id-160",
       "name": "toPoints",
-      "type": "geometry"
+      "type": "geometry",
+      "options": []
     },
     {
       "atomType": "Input",
-      "x": 0.0231,
-      "y": 0.30800000000000005,
+      "x": 0,
+      "y": 0.3,
       "uniqueID": "id-163",
       "name": "zDirOverride",
-      "type": "geometry"
+      "type": "geometry",
+      "options": []
     },
     {
       "atomType": "Input",
-      "x": 0.0231,
-      "y": 0.39200000000000007,
+      "x": 0,
+      "y": 0.4,
       "uniqueID": "id-166",
       "name": "xDirOverride",
-      "type": "geometry"
+      "type": "geometry",
+      "options": []
     }
   ],
   "allConnectors": [
